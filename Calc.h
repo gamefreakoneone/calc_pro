@@ -18,4 +18,4 @@ class Calc{
         size_t stored;
 }
 
-#endif //RHYMECALC_CALC_H
+#endif RHYMECALC_CALC_H
